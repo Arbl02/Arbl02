@@ -45,21 +45,23 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%33313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-333131.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-333131.svg?style=for-the-badge&logo=figma&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-333131.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Filmora](https://img.shields.io/badge/Filmora-333131.svg?style=for-the-badge&logo=filmora&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-333131.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-333131.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=46A2F1)
+![Filmora](https://img.shields.io/badge/Filmora-000000?style=for-the-badge&logo=filmora&logoColor=00B3E6)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
+![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=F5792A)
+
 
 # 🛡️ Badges:
 we still cookin chat...
 
 #  GitHub Stats:
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Arbl02&show_icons=true&bg_color=00000000&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=arbl02&theme=github-dark-blue&currStreakNum=FFD700&currStreakLabel=FFA500&sideLabels=FFA500&background=45%2C00000000%2C00000000) <br>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Arbl02&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) <br>
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arbl02&theme=tokyonight&hide_border=false)<br>
+![Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arbl02&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+ <br>
 
 
 
