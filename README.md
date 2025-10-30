@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Bella</h1>
-<h3 align="center">A Soon to be Frontend Dev and UI|UX Designer</h3>
+<h1 align="center">Hi!</h1>
+<h3 align="center">You stumbled upon a Soon to be Frontend Dev and UI|UX Designer</h3>
 
-- 🔭 I’m currently working on **OOP and DSA projects**
+- 🔭 I’m currently working on myself to improve slowly but surely, better than yesterday
 
-- 🌱 I’m currently learning **.Net, Vercel, C++ and Java**
+- 🌱 I’m currently learning Programming and UI|UX development 
 
-- ⚡ Fun fact **I like to sleep**
+- ⚡ Fun fact: Recharge by sleeping like tarsier, dive into tech and medical related rabbit holes because who needs balance when you can tinker with curiosity?
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
-
+<br>
 <h3 align="left" style="color:#58a6ff;">Languages and Tools:</h3>
+<br>
 <p align="left" style="background-color:#0d1117; padding:15px; border-radius:10px;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="filter:brightness(0.9) saturate(1.2);"/>
