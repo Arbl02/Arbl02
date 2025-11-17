@@ -6,7 +6,7 @@
 <blockquote>It always starts with Self-awareness, which shows both your flaws and your potential and the courage to face it is where real growth begins... wow how inspirational BWAHAHA!</blockquote>
 <h5>🌱 I’m currently learning and improving my Programming and UI|UX development skills. </h5>
 <blockquote>Down bad want to be a UI|UX designer in the near future so im learning it by myself... and having a programming background strengthens it of course so... the programming part is damn hard but we learnin chat! but wtf tuitioon fee!</blockquote>
-<h5>⚡ Fun fact: Recharge by sleeping like tarsier, dive into tech and medical related rabbit holes because who needs balance when you can tinker with curiosity?</h5>
+<h5>⚡ Fun fact: Recharge by sleeping like a koala, dive into tech and medical related rabbit holes because who needs balance when you can tinker with curiosity?</h5>
 
 
 # 💻 Tech Stack:
@@ -14,11 +14,10 @@
 ### 🌐 Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br> others coming soon...
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<br> others coming soon...
 
 ### ☁️ Hosting/SaaS
 
@@ -30,6 +29,7 @@
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br> others coming soon...
