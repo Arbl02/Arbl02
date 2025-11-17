@@ -6,7 +6,6 @@
 <blockquote>It always starts with Self-awareness, which shows both your flaws and your potential and the courage to face it is where real growth begins... wow how inspirational BWAHAHA!</blockquote>
 <h5>🌱 I’m currently learning and improving my Programming and UI|UX development skills. </h5>
 <blockquote>Down bad want to be a UI|UX designer in the near future so im learning it by myself... and having a programming background strengthens it of course so... the programming part is damn hard but we learnin chat! but wtf tuitioon fee!</blockquote>
-<h5>⚡ Fun fact: Recharge by sleeping like a koala, dive into tech and medical related rabbit holes because who needs balance when you can tinker with curiosity?</h5>
 
 
 # 💻 Tech Stack:
