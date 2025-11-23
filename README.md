@@ -26,7 +26,7 @@
 
 ### 🛠️ Frameworks, Platforms & Libraries
 
-![Java Swing](https://img.shields.io/badge/Java_Swing-3A3A3A?style=for-the-badge&logo=java&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-000000?style=for-the-badge&logo=java&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
